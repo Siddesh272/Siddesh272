@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://siddesh.myportfolio.com](https://sidportfolio.onrender.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sidportfolio.onrender.com)
 
 - 💬 Ask me about **ReactJs, Java, C++, Python, MERN stack**
 
